@@ -39,6 +39,5 @@ int main() {
 
         printf("final %d", median);
     }
-
     return 0;
 }
